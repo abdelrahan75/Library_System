@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bdalr\\Library_System_train\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\data\\dbcontexts\\library_systemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:data\\dbcontexts\\library_systemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bdalr\\Library_System_train\\Migrations\\20260706001335_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260706001335_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\configures\\borrowrecordconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\configures\\borrowrecordconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\configures\\memberconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\configures\\memberconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\configures\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\configures\\authorconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\configures\\bookconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\configures\\bookconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\entities\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|c:\\users\\bdalr\\library_system_train\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1300E20E-8818-4F33-B5B8-E3A36B81C2EA}|Library_System_train.csproj|solutionrelative:models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260706001335_one.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Migrations\\20260706001335_one.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260706001335_one.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Migrations\\20260706001335_one.cs",
+              "RelativeToolTip": "Migrations\\20260706001335_one.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:13:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-06T00:11:09.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:09:35.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRecordConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\BorrowRecordConfigure.cs",
+              "RelativeDocumentMoniker": "Models\\Configures\\BorrowRecordConfigure.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\BorrowRecordConfigure.cs",
+              "RelativeToolTip": "Models\\Configures\\BorrowRecordConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:07:54.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\MemberConfigure.cs",
+              "RelativeDocumentMoniker": "Models\\Configures\\MemberConfigure.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\MemberConfigure.cs",
+              "RelativeToolTip": "Models\\Configures\\MemberConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:07:18.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthorConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\AuthorConfigure.cs",
+              "RelativeDocumentMoniker": "Models\\Configures\\AuthorConfigure.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\AuthorConfigure.cs",
+              "RelativeToolTip": "Models\\Configures\\AuthorConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:06:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\BookConfigure.cs",
+              "RelativeDocumentMoniker": "Models\\Configures\\BookConfigure.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Configures\\BookConfigure.cs",
+              "RelativeToolTip": "Models\\Configures\\BookConfigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:05:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library_SystemDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Data\\DbContexts\\Library_SystemDbcontext.cs",
+              "RelativeDocumentMoniker": "Data\\DbContexts\\Library_SystemDbcontext.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Data\\DbContexts\\Library_SystemDbcontext.cs",
+              "RelativeToolTip": "Data\\DbContexts\\Library_SystemDbcontext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:03:39.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\BorrowRecord.cs",
+              "RelativeToolTip": "Models\\Entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:00:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Member.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Member.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Member.cs",
+              "RelativeToolTip": "Models\\Entities\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T00:00:21.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Author.cs",
+              "RelativeToolTip": "Models\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:59:44.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\bdalr\\Library_System_train\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "Models\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T23:58:47.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
